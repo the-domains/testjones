@@ -1,7 +1,7 @@
 name: testjones
 favicon: null
-layout_spectrum: 0.26151992101222277
-typography_spectrum: 0.6598866905551404
+layout_spectrum: 1
+typography_spectrum: 0.2948
 cta:
   domain: null
   bucket: null
